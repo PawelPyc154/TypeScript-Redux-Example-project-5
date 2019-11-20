@@ -1,5 +1,5 @@
-import {ExpenseActionTypes} from "../Types/actions";
-import {Expense} from "../Types/Expense";
+import {ExpenseActionTypes} from "./actionsType";
+import {Expense} from "./Expense";
 
 const MyStore: Expense = {
   InputChoise: "EUR",

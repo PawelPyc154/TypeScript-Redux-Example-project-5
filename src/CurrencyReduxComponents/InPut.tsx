@@ -11,8 +11,8 @@ import {
   setOutputCurrencyValue,
   setImputValue,
   setOutPutValue
-} from "../Actions/InputValue";
-import {Expense} from "../Types/Expense";
+} from "../store/reduser1/action";
+import {Expense} from "../store/reduser1/Expense";
 
 const Div = styled.div`
   display: flex;

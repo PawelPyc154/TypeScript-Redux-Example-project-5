@@ -2,7 +2,6 @@ import React from "react";
 // @ts-ignore
 import styled from "styled-components";
 
-import allReducers from "./Reducers/index";
 import InPut from "./CurrencyReduxComponents/InPut";
 import OutPut from "./CurrencyReduxComponents/OutPut";
 

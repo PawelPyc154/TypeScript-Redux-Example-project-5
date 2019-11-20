@@ -2,7 +2,7 @@ import React from "react";
 // @ts-ignore
 import styled from "styled-components";
 import {useSelector} from "react-redux";
-import {Expense} from "../Types/Expense";
+import {Expense} from "../store/reduser1/Expense";
 
 const Div = styled.div`
   display: flex;

@@ -1,4 +1,4 @@
-import {AppActions} from "../Types/actions";
+import {AppActions} from "./actionsType";
 
 export const setInputChoise = (value: string): AppActions => ({
   type: "SET_INPUT_CHOISE",

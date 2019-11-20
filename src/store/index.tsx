@@ -1,4 +1,4 @@
-import InputReducer from "./InputValue";
+import InputReducer from "./reduser1/reducer";
 // import OutPutValueReducer from "./OutPutValue.js";
 import {combineReducers} from "redux";
 
