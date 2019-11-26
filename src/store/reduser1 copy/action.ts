@@ -46,7 +46,7 @@ export const setOutputCurrencyValue = (value: string | number): AppActions => {
   };
 };
 ///////////////////////////////////////////////////////////////
-export const SET_INPUT_VALUE: string = "SET_INPUT_VALUE";
+export const SET_INPUT_VALUE = "SET_INPUT_VALUE";
 export interface setImputValue {
   type: typeof SET_INPUT_VALUE;
   e: any;
@@ -58,7 +58,7 @@ export const setImputValue = (value: Number | string): AppActions => {
   };
 };
 ///////////////////////////////////////////////////////////////
-export const SET_OUTPUT_VALUE: string = "SET_OUTPUT_VALUE";
+export const SET_OUTPUT_VALUE = "SET_OUTPUT_VALUE";
 export interface setOutPutValue {
   type: typeof SET_OUTPUT_VALUE;
   e: any;

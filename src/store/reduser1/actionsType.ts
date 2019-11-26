@@ -37,4 +37,5 @@ export type ExpenseActionTypes =
   | setOutputCurrencyValue
   | setImputValue
   | setOutPutValue;
+
 export type AppActions = ExpenseActionTypes;
