@@ -9,6 +9,7 @@ export interface setInputChoise {
   type: typeof SET_INPUT_CHOISE;
   e: any;
 }
+
 export interface setOutputChoise {
   type: typeof SET_OUTPUT_CHOISE;
   e: any;
