@@ -1,4 +1,5 @@
 {
+  "homepage": "https://pabloplatyna.github.io/TypeScript-Redux-Example-project-5/",
   "name": "elo",
   "version": "0.1.0",
   "private": true,
@@ -6,6 +7,7 @@
     "@types/jest": "24.0.23",
     "@types/node": "12.12.8",
     "axios": "^0.19.0",
+    "gh-pages": "^2.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-icons": "^3.8.0",
@@ -16,6 +18,8 @@
     "typescript": "3.7.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
