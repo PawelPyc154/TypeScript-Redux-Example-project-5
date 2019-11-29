@@ -1,6 +1,6 @@
 // import {AppActions} from "./actionsType";
 ////////////////////////////////////////////////////////
-export const SET_INPUT_CHOISE: string = "SET_INPUT_CHOISE";
+export const SET_INPUT_CHOISE = "SET_INPUT_CHOISE";
 export interface setInputChoise {
   type: typeof SET_INPUT_CHOISE;
   e: any;
@@ -10,7 +10,7 @@ export const setInputChoise = (value: string): AppActions => ({
   e: value
 });
 ////////////////////////////////////////////////////////////
-export const SET_OUTPUT_CHOISE: string = "SET_OUTPUT_CHOISE";
+export const SET_OUTPUT_CHOISE = "SET_OUTPUT_CHOISE";
 export interface setOutputChoise {
   type: typeof SET_OUTPUT_CHOISE;
   e: any;
@@ -22,7 +22,7 @@ export const setOutputChoise = (value: string): AppActions => {
   };
 };
 //////////////////////////////////////////////////////////
-export const SET_INPUT_CURRENCY_VALUE: string = "SET_INPUT_CURRENCY_VALUE";
+export const SET_INPUT_CURRENCY_VALUE = "SET_INPUT_CURRENCY_VALUE";
 export interface setInputCurrencyValue {
   type: typeof SET_INPUT_CURRENCY_VALUE;
   e: any;
@@ -34,7 +34,7 @@ export const setInputCurrencyValue = (value: string | number): AppActions => {
   };
 };
 //////////////////////////////////////////////////////////////
-export const SET_OUTPUT_CURRENCY_VALUE: string = "SET_OUTPUT_CURRENCY_VALUE";
+export const SET_OUTPUT_CURRENCY_VALUE = "SET_OUTPUT_CURRENCY_VALUE";
 export interface setOutputCurrencyValue {
   type: typeof SET_OUTPUT_CURRENCY_VALUE;
   e: any;
