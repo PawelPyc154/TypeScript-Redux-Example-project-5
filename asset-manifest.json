@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TypeScript-Redux-Example-project-5/static/css/main.ca251178.chunk.css",
+    "main.js": "/TypeScript-Redux-Example-project-5/static/js/main.004b5f23.chunk.js",
+    "main.js.map": "/TypeScript-Redux-Example-project-5/static/js/main.004b5f23.chunk.js.map",
+    "runtime-main.js": "/TypeScript-Redux-Example-project-5/static/js/runtime-main.11471d89.js",
+    "runtime-main.js.map": "/TypeScript-Redux-Example-project-5/static/js/runtime-main.11471d89.js.map",
+    "static/js/2.f31d737b.chunk.js": "/TypeScript-Redux-Example-project-5/static/js/2.f31d737b.chunk.js",
+    "static/js/2.f31d737b.chunk.js.map": "/TypeScript-Redux-Example-project-5/static/js/2.f31d737b.chunk.js.map",
+    "index.html": "/TypeScript-Redux-Example-project-5/index.html",
+    "precache-manifest.f431de9a5bd4262cbe16178a2d4a8308.js": "/TypeScript-Redux-Example-project-5/precache-manifest.f431de9a5bd4262cbe16178a2d4a8308.js",
+    "service-worker.js": "/TypeScript-Redux-Example-project-5/service-worker.js",
+    "static/css/main.ca251178.chunk.css.map": "/TypeScript-Redux-Example-project-5/static/css/main.ca251178.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11471d89.js",
+    "static/js/2.f31d737b.chunk.js",
+    "static/css/main.ca251178.chunk.css",
+    "static/js/main.004b5f23.chunk.js"
+  ]
+}
